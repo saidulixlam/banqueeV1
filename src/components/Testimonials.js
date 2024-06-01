@@ -26,7 +26,7 @@ const Testmonials = () => {
                     {[...Array(6)].map((_, index) => (
                         <div key={index} className="border p-4 rounded-lg shadow-lg bg-white">
                             <span className="block text-yellow-500 text-lg">★★★★★</span>
-                            <h3 className="text-xl font-semibold mt-2 mb-1">Subah subah yeh kya hwa</h3>
+                            <h3 className="text-xl font-semibold mt-2 mb-1">Dwain John</h3>
                             <p className="text-sm text-gray-600 text-wrap overflow-hidden">
                                 Ji e nhak de bal r kotha ehfb ywg fjw gfw ejfgwej gfwe yjgfweyj fgejgu
                             </p>

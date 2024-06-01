@@ -1,23 +1,14 @@
 import React from 'react';
-import { IoIosLaptop } from "react-icons/io";
+import { IoIosLaptop, IoMdAdd, IoMdCheckmark } from "react-icons/io";
 import { RiMotorbikeFill } from "react-icons/ri";
 import { MdOutlineFlight } from "react-icons/md";
-import { FaCameraRetro } from "react-icons/fa";
-import { IoMdAdd } from "react-icons/io";
-import { IoMdCheckmark } from "react-icons/io";
-import { FaApple } from "react-icons/fa";
-import { FaAmazon } from "react-icons/fa";
-import { FaTwitter } from "react-icons/fa";
-import { SiXiaomi } from "react-icons/si";
-import { SiCommerzbank } from "react-icons/si";
-import { FaShopify } from "react-icons/fa";
+import { FaCameraRetro, FaApple, FaAmazon, FaTwitter, FaShopify, FaCcMastercard, FaAmazonPay } from "react-icons/fa";
+import { SiXiaomi, SiCommerzbank, SiHdfcbank } from "react-icons/si";
 import { FaBitcoin } from "react-icons/fa6";
 import { GrVisa } from "react-icons/gr";
 import { FcGoogle } from "react-icons/fc";
-import { FaCcMastercard } from "react-icons/fa";
-import { FaAmazonPay } from "react-icons/fa";
-import { SiHdfcbank } from "react-icons/si";
 import { CiCircleMore } from "react-icons/ci";
+
 const Describe = () => {
     return (
         <div>
